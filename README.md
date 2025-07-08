@@ -54,5 +54,5 @@ Each question is approached using appropriate statistical summaries, visual insi
    * Further analyse top-performing cities and companies to identify key success factors.
    * Continue using multilingual strategies, as engagement remains strong across the board.
    
-Check out the notebook here['https://github.com/Top-BenBen/Marketing-Campaign-Performance-Analysis/blob/main/Marketing.ipynb']
+Check out the notebook [`here`](https://github.com/Top-BenBen/Marketing-Campaign-Performance-Analysis/blob/main/Marketing.ipynb)
 
